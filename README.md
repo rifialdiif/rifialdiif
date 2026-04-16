@@ -21,14 +21,14 @@
 ### :man_technologist: About Me :
  <strong>A tech & bjir bro. </strong> Lifelong learner  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- :telescope: I'm a final-year Software Engineering student at **Politeknik Enjinering Indorama** with a strong passion for solving real-world problems through technology.
+- :telescope: I'm a **Fresh Graduate** with a strong passion for solving real-world problems through technology.
 
 - :seedling: Exploring Any Opportunities.
 - ⌨️ Currently diving into product development, AI, and modern tech stacks.
 - 💬 Ask me about anything.
 - ☁️ Pronouns: He/Him.
 
-- :zap: In my free time, I read any article like tech, football, politics, etc.
+- :zap: In my free time, I read any article like tech, football, politics, economy, etc.
 
 - :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Rifialdi%20F-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifialdi-faturrochman/)
 
